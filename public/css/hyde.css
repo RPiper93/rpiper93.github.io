@@ -85,6 +85,13 @@ html {
   }
 }
 
+.sidebar img {
+  right: 1rem;
+  width: 9rem;
+  height: 9rem;
+  border: 3px solid #396860;
+}
+
 /* Sidebar links */
 .sidebar a {
   color: #fff;
