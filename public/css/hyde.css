@@ -67,6 +67,10 @@ html {
   font-size: 2.75rem;
 }
 
+.sidebar h1 a {
+  text-decoration: none;
+}
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
@@ -81,7 +85,6 @@ html {
 /* Sidebar links */
 .sidebar a {
   color: #fff;
-  text-decoration: none;
 }
 
 /* About section */
